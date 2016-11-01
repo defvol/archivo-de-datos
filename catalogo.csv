@@ -1,3 +1,3 @@
-titulo,descripcion,torrent,checksum,MB,fuente
-RNC_702825278724,red nacional de caminos (y carreteras),https://github.com/rodowi/archivo-de-datos/raw/master/torrents/RNC_702825278724.torrent,81d3bb3a7249133e39cb07aafff5a733722d3ff0916bb4faa5e50fc24db47d0e,152,http://datos.gob.mx/busca/dataset/red-nacional-de-caminos
-compranet20141202,compras del gobierno federal del 2011 al 2014,https://github.com/rodowi/archivo-de-datos/raw/master/torrents/compranet20141202.torrent,6ce7f27a57b031a980f16a838d10b7da94ef33ea43191cc2518ee99ecbe630db,8.3,https://sites.google.com/site/cnetuc/contrataciones
+titulo,descripcion,torrent,MB,fuente
+RNC_702825278724,red nacional de caminos (y carreteras),https://github.com/rodowi/archivo-de-datos/raw/master/torrents/RNC_702825278724.torrent,152,http://datos.gob.mx/busca/dataset/red-nacional-de-caminos
+compranet20141202,compras del gobierno federal del 2011 al 2014,https://github.com/rodowi/archivo-de-datos/raw/master/torrents/compranet20141202.torrent,8.3,https://sites.google.com/site/cnetuc/contrataciones
