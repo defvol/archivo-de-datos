@@ -2,7 +2,7 @@
 
 #### Antecedentes
 
-La idea toma forma en [este blog post](http://rodowi.github.io/refactor/articulo/2016/09/09/datos-en-torrent.html) después de varias conversaciones y pruebas hechas por la banda de [Codeando México](codeandomexico.org).
+La idea toma forma en [este blog post](http://rodowi.github.io/refactor/articulo/2016/09/09/datos-en-torrent.html) después de varias conversaciones y pruebas hechas por la banda de [Codeando México](https://codeandomexico.org).
 
 En términos generales, queremos que los datos nunca desaparezcan. El plan es migrar todo el contenido de sitios oficiales de datos de gobierno, más los datos recolectados por la comunidad, a una red BitTorrent.
 
