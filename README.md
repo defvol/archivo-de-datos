@@ -8,7 +8,7 @@ En términos generales, queremos que los datos nunca desaparezcan. El plan es mi
 
 #### Cómo empezar y cómo ayudar
 
-1. Consigue un cliente para BitTorrent.
+1. Consigue un cliente para BitTorrent. Checa la [guia para descargar torrents](https://github.com/rodowi/archivo-de-datos/wiki/Descargar-torrents).
 2. Ve al [catalogo](https://github.com/rodowi/archivo-de-datos/blob/master/catalogo.csv), busca datasets, baja los torrents y comienza a descargar y distribuir los datos.
 3. Si sabes de algún dataset bueno o lo escrapeaste, rólalo a la banda siguiendo [la guía para generar torrents](https://github.com/rodowi/archivo-de-datos/wiki/Generar-torrents).
 4. Ayuda escribiendo scripts para migrar automáticamente.
